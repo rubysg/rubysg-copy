@@ -39,9 +39,9 @@ Check out our next Ruby meetup on Meetup.com (http://www.meetup.com/Singapore-Ru
 ### When: Last Saturday of every month
 
 ### What?
-Did you know that the first international version of Rails Girls happened in Singapore? Linda Liukas, Founder of Rails Girls, flew all the way from Finland to Singapore in 2011 to help run the first ever Rails Girls in Singapore. It was a big success, however unfortunately, we were unable to sustain the momentum at the time.
+Did you know that the first international version of Rails Girls happened in Singapore? Linda Liukas, Founder of Rails Girls, flew all the way from Finland to Singapore in 2011 to help run the first ever Rails Girls in Singapore.
 
-In June 2014, we restarted the Singapore chapter of Rails Girls. Since then, the Rails Girls meetup has been another monthly activity for the Ruby community in Singapore, at which we share our knowledge of Ruby on Rails with ladies who are interested in learning to code.
+Inspired by this history, in June 2014, we restarted the Singapore chapter of Rails Girls. Since then, the Rails Girls meetup has been another monthly activity for the Ruby community in Singapore, at which we share our knowledge of Ruby on Rails with ladies who are interested in learning to code.
 
 Find out when our next Rails Girls meetup is on Meetup.com (http://www.meetup.com/Singapore-Ruby-Group/)
 

@@ -49,7 +49,7 @@ Find out when our next Rails Girls meetup is on Meetup.com (http://www.meetup.co
 
 Due to the growth in popularity of Ruby in Singapore, the RedDot Ruby Conference was conceived and launched in 2011. Today, it continues to be the largest Ruby conference in South East Asia, seeing an annual attendance of about 300+ Rubyists from all over the World. 
 
-Luminaries who have graced RedDotRubyConf in the last few years includes:
+Luminaries who have graced RedDotRubyConf in the last few years include:
 
 - Matz (2011)
 - Dave Thomas (2011)

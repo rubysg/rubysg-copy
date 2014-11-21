@@ -18,7 +18,7 @@ tl:dr We are a group of nice people who love Ruby, and meeting new #rubyfriends!
 
 RubySG, also known as Singapore Ruby Brigade or Singapore Ruby Group, is a user group in Singapore that celebrates the use of the Ruby programming language.
 
-The group's origin started from a causal conversation between several people (Sau Sheong, Choon Keat etc) on 22 June 2006 at a e27 meetup, and the Google Group (see [first post](https://groups.google.com/forum/?fromgroups#!topic/singapore-rb/ZXMA0Pg8uW4)) was created shortly thereafter where early Singapore Rubyists gathered to chit chat about Ruby.
+The group's origin started from a casual conversation between several people (Sau Sheong, Choon Keat etc) on 22 June 2006 at a e27 meetup, and the Google Group (see [first post](https://groups.google.com/forum/?fromgroups#!topic/singapore-rb/ZXMA0Pg8uW4)) was created shortly thereafter where early Singapore Rubyists gathered to chit chat about Ruby.
 
 The first official meetup was held on 5 July 2006 at Starbucks, Raffles City with a total turn out of less than 10 people. The subsequently meetups were also sporadic, and finding a good meetup location was constantly a challenge. Meetups during those times revolved around "Rails", Hosting and Deployment" (No Heroku then!), "TDD", "BDD" amongst others.
 
